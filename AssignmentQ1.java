@@ -3,12 +3,6 @@ public class AssignmentQ1 {
 
 	public static void main(String[] args) {
 
-		//-----------------------------------
-		// Assignment 1
-		//written by Basil Kamhiyah 2195351
-		// // For Programming Concepts 1 EQ 2 – Fall 2021
-
-
 
 		int [] student= new int [100];
 		boolean [] status= new boolean [100]; 
